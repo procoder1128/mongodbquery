@@ -1,0 +1,15 @@
+export { default as UserRepo } from './user.repo';
+export { default as CampaignRepo } from './campaign.repo';
+export { default as PlansRepo } from './plans.repo';
+export { default as InfluencerRepo } from './influencer.repo';
+export { default as KeyRepo } from './key.repo';
+export { default as UsageRepo } from './usage.repo';
+export { default as HistoryRepo } from './history.repo';
+export { default as MemoRepo } from './memo.repo';
+export { default as MonitoringRepo } from './monitoring.repo';
+export { default as UpdateRepo } from './update.repo';
+export { default as ModashRepo } from './modash.repo';
+export { default as UserTagsRepo } from './usertags.repo';
+export { default as CreditRepo } from './credit.repo';
+export { default as AnnouncementRepo } from './announcement.repo';
+export { default as DataUrlsRepo } from './dataurls.repo';
